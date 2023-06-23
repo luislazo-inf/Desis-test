@@ -1,0 +1,9 @@
+He usado Laragon para lo que es el entorno de desarrollo local, para la instalación del proyecto lo recomendable es dejarlo descargado en la carpeta www de Laragon, ya que
+de esta manera al iniciar Laragon, se inician los recursos se ingresa a Web y se coloca http://localhost/desis-test/ para ingresar de inmediato al formulario.
+
+Adicionalmente hay que generar la base de datos que se encuentra en la carpeta DB, donde hay 4 tablas, en las cuales 3 tienen datos que son region, comuna y candidatos. La 
+tabla de candidatos le he generado datos en base a actores, ya que no se especifico si debían ser otros tipos de candidatos.
+
+La versión de PHP que he usado para este proyecto fue: 7.4.11.
+
+Y la versión de mysql a sido la: 5.7.24.
